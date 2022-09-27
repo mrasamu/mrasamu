@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) Visitor.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrasamu)](https://github.com/mrasamu/github-readme-stats)
+
+![mrasamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrasamu&show_icons=true&theme=tokyonight)
