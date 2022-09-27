@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) Visitor.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrasamu)](https://github.com/mrasamu/github-readme-stats)
